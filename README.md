@@ -56,7 +56,7 @@ MongoDB is a NoSQL database that can handle large volumes of geospatial data. It
 1. Install Android Studio and Flutter SDK, if you don't already have it.
 2. Get the source code.
 ```
-git clone https://github.com/MYPOWER-2113/IT314_Location-Sharing-System_Group-7.git
+git clone https://github.com/RonitRohil/Location-Sharing-System.git
 ```
 3. Open the sample into Android Studio.
 4. Build and run the sample. You may need to update gradle and library versions. Follow the guidance provided by Android Studio.
